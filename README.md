@@ -65,61 +65,110 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Compute & Containers**
-- ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) Amazon EC2
-- ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white) AWS Lambda
-- ![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Elastic Beanstalk
-- ![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white) Amazon ECS
-- ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white) Amazon EKS
-- ![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Auto Scaling
-- ![ELB](https://img.shields.io/badge/ELB-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Elastic Load Balancing
+
+<p>
+<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="EC2" width="60" title="Amazon EC2"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/120px-Amazon_Lambda_architecture_logo.svg.png" alt="Lambda" width="60" title="AWS Lambda"/>
+<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="ECS" width="60" title="Amazon ECS"/>
+</p>
+
+- Amazon EC2
+- AWS Lambda  
+- Elastic Beanstalk
+- Amazon ECS
+- Amazon EKS
+- Auto Scaling
+- Elastic Load Balancing
 
 **Storage & Database**
-- ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) Amazon S3
-- ![EBS](https://img.shields.io/badge/EBS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Amazon EBS
-- ![EFS](https://img.shields.io/badge/EFS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Amazon EFS
-- ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white) Amazon RDS
-- ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white) Amazon DynamoDB
-- ![Aurora](https://img.shields.io/badge/Aurora-527FFF?style=flat-square&logo=amazon-aurora&logoColor=white) Amazon Aurora
-- ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white) Amazon Redshift
+
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/120px-Amazon-S3-Logo.svg.png" alt="S3" width="60" title="Amazon S3"/>
+<img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGd1XhZFd3wRaLlbsGGOkKxE=/aws-icons-2022-06-14%2018-00-18" alt="RDS" width="60" title="Amazon RDS"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-smdw28uy.png" alt="DynamoDB" width="60" title="Amazon DynamoDB"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-redshift-icon-424x512-jhh5skkp.png" alt="Redshift" width="60" title="Amazon Redshift"/>
+</p>
+
+- Amazon S3
+- Amazon EBS
+- Amazon EFS
+- Amazon RDS
+- Amazon DynamoDB
+- Amazon Aurora
+- Amazon Redshift
 
 **Networking**
-- ![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Amazon VPC
-- ![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazon-route-53&logoColor=white) Amazon Route 53
-- ![Direct Connect](https://img.shields.io/badge/Direct_Connect-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white) AWS Direct Connect
-- ![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazon-cloudfront&logoColor=white) Amazon CloudFront
-- ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white) Amazon API Gateway
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-cloudfront-icon-455x512-az2br1js.png" alt="CloudFront" width="60" title="Amazon CloudFront"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-route53-icon-423x512-ac71haoy.png" alt="Route 53" width="60" title="Amazon Route 53"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-api-gateway-icon-423x512-7vhqp8b7.png" alt="API Gateway" width="60" title="AWS API Gateway"/>
+</p>
+
+- Amazon VPC
+- Amazon Route 53
+- AWS Direct Connect
+- Amazon CloudFront
+- AWS API Gateway
 
 **Security & Identity**
-- ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS IAM
-- ![KMS](https://img.shields.io/badge/KMS-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS KMS
-- ![WAF](https://img.shields.io/badge/WAF-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS WAF
-- ![Shield](https://img.shields.io/badge/Shield-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS Shield
-- ![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS Secrets Manager
-- ![Certificate Manager](https://img.shields.io/badge/Certificate_Manager-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS Certificate Manager
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-iam-icon-423x512-7l5h2e2d.png" alt="IAM" width="60" title="AWS IAM"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-waf-icon-512x512-81hgtzcs.png" alt="WAF" width="60" title="AWS WAF"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-kms-icon-386x512-vz69ss1m.png" alt="KMS" width="60" title="AWS KMS"/>
+</p>
+
+- AWS IAM
+- AWS KMS
+- AWS WAF
+- AWS Shield
+- AWS Secrets Manager
+- AWS Certificate Manager
 
 **DevOps & Automation**
-- ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS CloudFormation
-- ![CodePipeline](https://img.shields.io/badge/CodePipeline-4053D6?style=flat-square&logo=amazon-aws&logoColor=white) AWS CodePipeline
-- ![CodeBuild](https://img.shields.io/badge/CodeBuild-4053D6?style=flat-square&logo=amazon-aws&logoColor=white) AWS CodeBuild
-- ![CodeDeploy](https://img.shields.io/badge/CodeDeploy-4053D6?style=flat-square&logo=amazon-aws&logoColor=white) AWS CodeDeploy
-- ![Systems Manager](https://img.shields.io/badge/Systems_Manager-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS Systems Manager
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-cloudformation-icon-430x512-r2ft2rhs.png" alt="CloudFormation" width="60" title="AWS CloudFormation"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-codepipeline-icon-455x512-3wm3zsmr.png" alt="CodePipeline" width="60" title="AWS CodePipeline"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-codebuild-icon-511x512-vy9mp6d3.png" alt="CodeBuild" width="60" title="AWS CodeBuild"/>
+</p>
+
+- AWS CloudFormation
+- AWS CodePipeline
+- AWS CodeBuild
+- AWS CodeDeploy
+- AWS Systems Manager
 
 **AI/ML & Analytics**
-- ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Amazon SageMaker
-- ![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Amazon Bedrock
-- ![RAG](https://img.shields.io/badge/RAG-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) RAG
-- ![Comprehend](https://img.shields.io/badge/Comprehend-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Amazon Comprehend
-- ![Lex](https://img.shields.io/badge/Lex-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Amazon Lex
-- ![Polly](https://img.shields.io/badge/Polly-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Amazon Polly
-- ![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS Glue
-- ![EMR](https://img.shields.io/badge/EMR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Amazon EMR
-- ![Athena](https://img.shields.io/badge/Athena-FF9900?style=flat-square&logo=amazon-athena&logoColor=white) Amazon Athena
-- ![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Amazon QuickSight
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-sagemaker-icon-424x512-rqz03w6s.png" alt="SageMaker" width="60" title="Amazon SageMaker"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-glue-icon-407x512-osx7nfen.png" alt="Glue" width="60" title="AWS Glue"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-athena-icon-428x512-jyhmxrza.png" alt="Athena" width="60" title="Amazon Athena"/>
+</p>
+
+- Amazon SageMaker
+- Amazon Bedrock
+- RAG (Retrieval Augmented Generation)
+- Amazon Comprehend
+- Amazon Lex
+- Amazon Polly
+- AWS Glue
+- Amazon EMR
+- Amazon Athena
+- Amazon QuickSight
 
 **Monitoring**
-- ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white) Amazon CloudWatch
-- ![Config](https://img.shields.io/badge/Config-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS Config
-- ![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS CloudTrail
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-cloudwatch-icon-456x512-cpc4hf29.png" alt="CloudWatch" width="60" title="Amazon CloudWatch"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-cloudtrail-icon-511x512-0p7dlvd9.png" alt="CloudTrail" width="60" title="AWS CloudTrail"/>
+</p>
+
+- Amazon CloudWatch
+- AWS Config
+- AWS CloudTrail
 
 </td>
 <td width="50%" valign="top">
@@ -128,51 +177,104 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 **Compute & Containers**
-- ![Azure VMs](https://img.shields.io/badge/Virtual_Machines-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Virtual Machines
-- ![Azure Functions](https://img.shields.io/badge/Functions-0078D4?style=flat-square&logo=azure-functions&logoColor=white) Azure Functions
-- ![App Service](https://img.shields.io/badge/App_Service-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure App Service
-- ![Container Instances](https://img.shields.io/badge/Container_Instances-0078D4?style=flat-square&logo=docker&logoColor=white) Azure Container Instances
-- ![AKS](https://img.shields.io/badge/AKS-0078D4?style=flat-square&logo=kubernetes&logoColor=white) Azure Kubernetes Service
+
+<p>
+<img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure VMs" width="60" title="Azure Virtual Machines"/>
+<img src="https://static-00.iconduck.com/assets.00/azure-functions-icon-423x512-z7oe6brt.png" alt="Azure Functions" width="60" title="Azure Functions"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Container-Instances.svg" alt="Container Instances" width="60" title="Azure Container Instances"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Kubernetes-Services.svg" alt="AKS" width="60" title="Azure Kubernetes Service"/>
+</p>
+
+- Azure Virtual Machines
+- Azure Functions
+- Azure App Service
+- Azure Container Instances
+- Azure Kubernetes Service (AKS)
 
 **Storage & Database**
-- ![Blob Storage](https://img.shields.io/badge/Blob_Storage-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Blob Storage
-- ![Data Lake](https://img.shields.io/badge/Data_Lake-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Data Lake Storage
-- ![SQL Database](https://img.shields.io/badge/SQL_Database-0078D4?style=flat-square&logo=microsoft-sql-server&logoColor=white) Azure SQL Database
-- ![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Cosmos DB
-- ![Synapse Analytics](https://img.shields.io/badge/Synapse_Analytics-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Synapse Analytics
+
+<p>
+<img src="https://code.benco.io/icon-collection/azure-icons/Storage-Accounts.svg" alt="Blob Storage" width="60" title="Azure Blob Storage"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/SQL-Database.svg" alt="SQL Database" width="60" title="Azure SQL Database"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Azure-Cosmos-DB.svg" alt="Cosmos DB" width="60" title="Azure Cosmos DB"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Azure-Synapse-Analytics.svg" alt="Synapse" width="60" title="Azure Synapse Analytics"/>
+</p>
+
+- Azure Blob Storage
+- Azure Data Lake Storage
+- Azure SQL Database
+- Azure Cosmos DB
+- Azure Synapse Analytics
 
 **Networking**
-- ![VNet](https://img.shields.io/badge/Virtual_Network-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Virtual Network
-- ![ExpressRoute](https://img.shields.io/badge/ExpressRoute-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure ExpressRoute
-- ![Load Balancer](https://img.shields.io/badge/Load_Balancer-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Load Balancer
-- ![DNS](https://img.shields.io/badge/DNS-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure DNS
-- ![Application Gateway](https://img.shields.io/badge/Application_Gateway-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Application Gateway
-- ![Firewall](https://img.shields.io/badge/Firewall-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Firewall
+
+<p>
+<img src="https://code.benco.io/icon-collection/azure-icons/Virtual-Networks.svg" alt="VNet" width="60" title="Azure Virtual Network"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Load-Balancers.svg" alt="Load Balancer" width="60" title="Azure Load Balancer"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Application-Gateway.svg" alt="App Gateway" width="60" title="Azure Application Gateway"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Firewalls.svg" alt="Firewall" width="60" title="Azure Firewall"/>
+</p>
+
+- Azure Virtual Network (VNet)
+- Azure ExpressRoute
+- Azure Load Balancer
+- Azure DNS
+- Azure Application Gateway
+- Azure Firewall
 
 **Security & Identity**
-- ![Azure AD](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Active Directory
-- ![Key Vault](https://img.shields.io/badge/Key_Vault-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Key Vault
-- ![Security Center](https://img.shields.io/badge/Security_Center-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Security Center
+
+<p>
+<img src="https://code.benco.io/icon-collection/azure-icons/Azure-Active-Directory.svg" alt="Azure AD" width="60" title="Azure Active Directory"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Key-Vaults.svg" alt="Key Vault" width="60" title="Azure Key Vault"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Security-Center.svg" alt="Security Center" width="60" title="Azure Security Center"/>
+</p>
+
+- Azure Active Directory
+- Azure Key Vault
+- Azure Security Center
 
 **DevOps & Automation**
-- ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white) Azure DevOps
-- ![ARM Templates](https://img.shields.io/badge/ARM_Templates-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ARM Templates
-- ![Pipelines](https://img.shields.io/badge/Pipelines-0078D4?style=flat-square&logo=azure-pipelines&logoColor=white) Azure Pipelines
-- ![Automation](https://img.shields.io/badge/Automation-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Automation
+
+<p>
+<img src="https://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg" alt="Azure DevOps" width="60" title="Azure DevOps"/>
+<img src="https://static-00.iconduck.com/assets.00/azure-pipelines-icon-512x512-9ipw73ko.png" alt="Pipelines" width="60" title="Azure Pipelines"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Automation-Accounts.svg" alt="Automation" width="60" title="Azure Automation"/>
+</p>
+
+- Azure DevOps
+- ARM Templates
+- Azure Pipelines
+- Azure Automation
 
 **AI/ML & Analytics**
-- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Machine Learning
-- ![OpenAI Service](https://img.shields.io/badge/OpenAI_Service-0078D4?style=flat-square&logo=openai&logoColor=white) Azure OpenAI Service
-- ![Cognitive Services](https://img.shields.io/badge/Cognitive_Services-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Cognitive Services
-- ![Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Data Factory
-- ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) Azure Databricks
-- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) Power BI
+
+<p>
+<img src="https://code.benco.io/icon-collection/azure-icons/Machine-Learning.svg" alt="ML" width="60" title="Azure Machine Learning"/>
+<img src="https://static-00.iconduck.com/assets.00/openai-icon-505x512-pr6amibw.png" alt="OpenAI" width="60" title="Azure OpenAI Service"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" alt="Data Factory" width="60" title="Azure Data Factory"/>
+<img src="https://static-00.iconduck.com/assets.00/databricks-icon-505x512-3k5f1lyb.png" alt="Databricks" width="60" title="Azure Databricks"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/120px-New_Power_BI_Logo.svg.png" alt="Power BI" width="60" title="Power BI"/>
+</p>
+
+- Azure Machine Learning
+- Azure OpenAI Service
+- Azure Cognitive Services
+- Azure Data Factory
+- Azure Databricks
+- Microsoft Power BI
 
 **Monitoring**
-- ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Monitor
-- ![Advisor](https://img.shields.io/badge/Advisor-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Advisor
-- ![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Log Analytics
-- ![Application Insights](https://img.shields.io/badge/Application_Insights-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Application Insights
+
+<p>
+<img src="https://code.benco.io/icon-collection/azure-icons/Monitor.svg" alt="Monitor" width="60" title="Azure Monitor"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Log-Analytics-Workspaces.svg" alt="Log Analytics" width="60" title="Log Analytics"/>
+</p>
+
+- Azure Monitor
+- Azure Advisor
+- Log Analytics
+- Application Insights
 
 </td>
 </tr>
@@ -184,43 +286,77 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 <summary><h3>🔧 DevOps & Automation Tools</h3></summary>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker" width="70" title="Docker"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" title="Kubernetes"/>
+<img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="Terraform" width="60" title="Terraform"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="60" title="Jenkins"/>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="60" title="Git"/>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="60" title="GitHub"/>
+<img src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="GitLab" width="60" title="GitLab"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="60" title="Ansible"/>
 </p>
 
 **Infrastructure as Code (IaC)**
-- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) Terraform (Multi-cloud deployment)
-- ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS CloudFormation
-- ![ARM](https://img.shields.io/badge/ARM_Templates-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure ARM Templates
-- ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) Ansible (Configuration Management)
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="Terraform" width="50" title="Terraform"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-cloudformation-icon-430x512-r2ft2rhs.png" alt="CloudFormation" width="50" title="AWS CloudFormation"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Azure-Resource-Manager.svg" alt="ARM" width="50" title="ARM Templates"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" title="Ansible"/>
+</p>
+
+- Terraform (Multi-cloud deployment)
+- AWS CloudFormation
+- Azure ARM Templates
+- Ansible (Configuration Management)
 
 **CI/CD Pipelines**
-- ![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS CodePipeline
-- ![AWS CodeBuild](https://img.shields.io/badge/CodeBuild-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS CodeBuild
-- ![AWS CodeDeploy](https://img.shields.io/badge/CodeDeploy-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS CodeDeploy
-- ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D4?style=flat-square&logo=azure-pipelines&logoColor=white) Azure DevOps Pipelines
-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) Jenkins (Automated builds & deployments)
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) GitHub Actions
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-codepipeline-icon-455x512-3wm3zsmr.png" alt="CodePipeline" width="50" title="AWS CodePipeline"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-codebuild-icon-511x512-vy9mp6d3.png" alt="CodeBuild" width="50" title="AWS CodeBuild"/>
+<img src="https://static-00.iconduck.com/assets.00/azure-pipelines-icon-512x512-9ipw73ko.png" alt="Azure Pipelines" width="50" title="Azure Pipelines"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" title="Jenkins"/>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Actions" width="50" title="GitHub Actions"/>
+</p>
+
+- AWS CodePipeline
+- AWS CodeBuild
+- AWS CodeDeploy
+- Azure DevOps Pipelines
+- Jenkins (Automated builds & deployments)
+- GitHub Actions
 
 **Containerization & Orchestration**
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Docker (Container creation & management)
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) Kubernetes (Container orchestration)
-- ![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white) Amazon ECS
-- ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white) Amazon EKS
-- ![AKS](https://img.shields.io/badge/AKS-0078D4?style=flat-square&logo=kubernetes&logoColor=white) Azure AKS
-- ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) Docker Compose
+
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker" width="50" title="Docker"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="50" title="Kubernetes"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-ecs-icon-452x512-oqfciuys.png" alt="ECS" width="50" title="Amazon ECS"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-eks-icon-455x512-3uelgjmy.png" alt="EKS" width="50" title="Amazon EKS"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Kubernetes-Services.svg" alt="AKS" width="50" title="Azure AKS"/>
+</p>
+
+- Docker (Container creation & management)
+- Kubernetes (Container orchestration)
+- Amazon ECS
+- Amazon EKS
+- Azure AKS
+- Docker Compose
 
 **Version Control**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Git
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) GitHub
-- ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) GitLab
-- ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white) Bitbucket
+
+<p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" title="Git"/>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50" title="GitHub"/>
+<img src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="GitLab" width="50" title="GitLab"/>
+<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="50" title="Bitbucket"/>
+</p>
+
+- Git
+- GitHub
+- GitLab
+- Bitbucket
 
 </details>
 
@@ -228,19 +364,18 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 <summary><h3>💻 Programming & Scripting</h3></summary>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="60" title="Python"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="60" title="Bash"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="60" title="PowerShell"/>
+<img src="https://cdn.worldvectorlogo.com/logos/yaml.svg" alt="YAML" width="60" title="YAML"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="60" title="JSON"/>
 </p>
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python:** Automation scripts, AWS Boto3, Azure SDK, data processing
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) **Bash/Shell:** Linux automation, deployment scripts
-- ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) **PowerShell:** Windows automation, Azure management
-- ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white) **YAML:** Configuration files, CI/CD pipelines
-- ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) **JSON:** API responses, IaC templates
+- **Python:** Automation scripts, AWS Boto3, Azure SDK, data processing
+- **Bash/Shell:** Linux automation, deployment scripts
+- **PowerShell:** Windows automation, Azure management
+- **YAML:** Configuration files, CI/CD pipelines
+- **JSON:** API responses, IaC templates
 
 </details>
 
@@ -248,36 +383,74 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 <summary><h3>🗄️ Databases & Data Engineering</h3></summary>
 
 **Relational Databases**
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) MySQL
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) PostgreSQL
-- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) MariaDB
-- ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white) Amazon RDS
-- ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square&logo=microsoft-sql-server&logoColor=white) Azure SQL Database
-- ![Aurora](https://img.shields.io/badge/Aurora-527FFF?style=flat-square&logo=amazon-aurora&logoColor=white) Amazon Aurora
+
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="60" title="MySQL"/>
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="60" title="PostgreSQL"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="MariaDB" width="60" title="MariaDB"/>
+<img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGd1XhZFd3wRaLlbsGGOkKxE=/aws-icons-2022-06-14%2018-00-18" alt="RDS" width="60" title="Amazon RDS"/>
+</p>
+
+- MySQL
+- PostgreSQL
+- MariaDB
+- Amazon RDS
+- Azure SQL Database
+- Amazon Aurora
 
 **NoSQL Databases**
-- ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white) Amazon DynamoDB
-- ![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Cosmos DB
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) MongoDB
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-smdw28uy.png" alt="DynamoDB" width="60" title="Amazon DynamoDB"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Azure-Cosmos-DB.svg" alt="Cosmos DB" width="60" title="Azure Cosmos DB"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="60" title="MongoDB"/>
+</p>
+
+- Amazon DynamoDB
+- Azure Cosmos DB
+- MongoDB
 
 **Data Warehousing & Analytics**
-- ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white) Amazon Redshift
-- ![Synapse](https://img.shields.io/badge/Synapse_Analytics-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Synapse Analytics
-- ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) Snowflake
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-redshift-icon-424x512-jhh5skkp.png" alt="Redshift" width="60" title="Amazon Redshift"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Azure-Synapse-Analytics.svg" alt="Synapse" width="60" title="Azure Synapse Analytics"/>
+<img src="https://cdn.worldvectorlogo.com/logos/snowflake-1.svg" alt="Snowflake" width="60" title="Snowflake"/>
+</p>
+
+- Amazon Redshift
+- Azure Synapse Analytics
+- Snowflake
 - ETL/ELT Pipeline Development
 
 **Data Processing & Integration**
-- ![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS Glue
-- ![EMR](https://img.shields.io/badge/EMR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Amazon EMR
-- ![Athena](https://img.shields.io/badge/Athena-FF9900?style=flat-square&logo=amazon-athena&logoColor=white) Amazon Athena
-- ![Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Data Factory
-- ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) Azure Databricks
-- ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) Apache Spark
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-glue-icon-407x512-osx7nfen.png" alt="Glue" width="60" title="AWS Glue"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-athena-icon-428x512-jyhmxrza.png" alt="Athena" width="60" title="Amazon Athena"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" alt="Data Factory" width="60" title="Azure Data Factory"/>
+<img src="https://static-00.iconduck.com/assets.00/databricks-icon-505x512-3k5f1lyb.png" alt="Databricks" width="60" title="Databricks"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="60" title="Apache Spark"/>
+</p>
+
+- AWS Glue
+- Amazon EMR
+- Amazon Athena
+- Azure Data Factory
+- Azure Databricks
+- Apache Spark
 
 **Business Intelligence**
-- ![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Amazon QuickSight
-- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) Microsoft Power BI
-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) Tableau
+
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/aws.svg" alt="QuickSight" width="60" title="Amazon QuickSight"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/120px-New_Power_BI_Logo.svg.png" alt="Power BI" width="60" title="Power BI"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="60" title="Tableau"/>
+</p>
+
+- Amazon QuickSight
+- Microsoft Power BI
+- Tableau
 
 </details>
 
@@ -285,30 +458,61 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 <summary><h3>🔒 Security & Compliance</h3></summary>
 
 **Identity & Access Management**
-- ![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS IAM (Roles, Policies, MFA)
-- ![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Active Directory
-- ![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white) Identity Management
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-iam-icon-423x512-7l5h2e2d.png" alt="IAM" width="60" title="AWS IAM"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Azure-Active-Directory.svg" alt="Azure AD" width="60" title="Azure Active Directory"/>
+<img src="https://cdn.worldvectorlogo.com/logos/okta-1.svg" alt="Okta" width="60" title="Okta"/>
+</p>
+
+- AWS IAM (Roles, Policies, MFA)
+- Azure Active Directory
+- Identity Management
 - Least privilege principle implementation
 
 **Data Protection & Encryption**
-- ![AWS KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS KMS
-- ![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS Secrets Manager
-- ![Azure Key Vault](https://img.shields.io/badge/Key_Vault-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Key Vault
-- ![Certificate Manager](https://img.shields.io/badge/Certificate_Manager-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS Certificate Manager
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-kms-icon-386x512-vz69ss1m.png" alt="KMS" width="60" title="AWS KMS"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-secrets-manager-icon-512x512-4w4w8g3y.png" alt="Secrets Manager" width="60" title="AWS Secrets Manager"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Key-Vaults.svg" alt="Key Vault" width="60" title="Azure Key Vault"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-certificate-manager-icon-512x512-lmya8xkp.png" alt="Certificate Manager" width="60" title="AWS Certificate Manager"/>
+</p>
+
+- AWS KMS
+- AWS Secrets Manager
+- Azure Key Vault
+- AWS Certificate Manager
 - Encryption at rest & in transit
 
 **Network Security**
-- ![Security Groups](https://img.shields.io/badge/Security_Groups-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS Security Groups & NACLs
-- ![AWS WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS WAF (Web Application Firewall)
-- ![AWS Shield](https://img.shields.io/badge/AWS_Shield-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS Shield (DDoS Protection)
-- ![Azure Firewall](https://img.shields.io/badge/Azure_Firewall-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Firewall
-- ![NSG](https://img.shields.io/badge/Network_Security_Groups-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure NSG
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-waf-icon-512x512-81hgtzcs.png" alt="WAF" width="60" title="AWS WAF"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-shield-icon-511x512-mhvtppce.png" alt="Shield" width="60" title="AWS Shield"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Firewalls.svg" alt="Firewall" width="60" title="Azure Firewall"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Network-Security-Groups.svg" alt="NSG" width="60" title="Network Security Groups"/>
+</p>
+
+- AWS Security Groups & NACLs
+- AWS WAF (Web Application Firewall)
+- AWS Shield (DDoS Protection)
+- Azure Firewall
+- Azure Network Security Groups
 
 **Monitoring & Compliance**
-- ![AWS Config](https://img.shields.io/badge/AWS_Config-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS Config
-- ![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) AWS CloudTrail
-- ![Security Center](https://img.shields.io/badge/Security_Center-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure Security Center
-- ![GuardDuty](https://img.shields.io/badge/GuardDuty-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) AWS GuardDuty
+
+<p>
+<img src="https://static-00.iconduck.com/assets.00/aws-config-icon-423x512-k2vvlzcb.png" alt="Config" width="60" title="AWS Config"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-cloudtrail-icon-511x512-0p7dlvd9.png" alt="CloudTrail" width="60" title="AWS CloudTrail"/>
+<img src="https://code.benco.io/icon-collection/azure-icons/Security-Center.svg" alt="Security Center" width="60" title="Azure Security Center"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-guardduty-icon-423x512-c6h5gj48.png" alt="GuardDuty" width="60" title="AWS GuardDuty"/>
+</p>
+
+- AWS Config
+- AWS CloudTrail
+- Azure Security Center
+- AWS GuardDuty
 - Compliance frameworks (GDPR, HIPAA, SOC 2)
 
 </details>
