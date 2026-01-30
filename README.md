@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sumti-mehta)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sumti.mehta.01@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_8219638089-green?style=for-the-badge&logo=whatsapp)](tel:+918219638089)
 
 </div>
 
@@ -18,29 +17,23 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-```yaml
-location: Himachal Pradesh, India
-role: AWS Cloud Engineer @ K21 Academy
-experience: 3+ years in Cloud Architecture & DevOps
-specialization: Multi-cloud infrastructure (AWS & Azure)
-```
+**Multi-Cloud Engineer** specializing in AWS and Azure with 3+ years of experience in designing, implementing, and optimizing cloud infrastructures. Passionate about automation, security, and building scalable solutions.
 
 ### 🎯 What I Do
-- 🏗️ Design and implement secure, scalable cloud infrastructures
-- 🔄 Automate deployments with CI/CD pipelines
-- 💰 Optimize cloud costs and performance
-- 🌐 Architect multi-cloud solutions for enterprise needs
-- 🤖 Integrate AI/ML services into cloud workflows
+- ☁️ Architect and deploy multi-cloud infrastructure solutions
+- 🔄 Build CI/CD pipelines and automate deployments
+- 🔒 Implement security best practices and compliance frameworks
+- 📊 Design data pipelines and analytics solutions
+- 🤖 Integrate AI/ML services into cloud architectures
 
-### 📚 Currently Learning & Exploring
-- ☁️ **AWS Advanced Services**: Diving deeper into AWS architecture patterns, serverless computing, and container orchestration
-- 🔷 **Azure Cloud Platform**: Expanding expertise in Azure services, hybrid cloud solutions, and Azure DevOps
-- 📊 **Data Engineering**: Building robust data pipelines, ETL/ELT processes, data warehousing, and real-time analytics
-- 🤖 **Artificial Intelligence & Machine Learning**: Exploring cloud-based AI/ML services, model deployment, MLOps, and generative AI solutions
-- 🔧 **Advanced DevOps**: Mastering GitOps, infrastructure automation, and modern observability practices
+### 📚 Currently Exploring
+- **AWS & Azure Advanced Services** - Deep-diving into serverless, containers, and hybrid cloud architectures
+- **Data Engineering** - Building robust ETL/ELT pipelines, data warehousing, and real-time analytics
+- **AI & Machine Learning** - Exploring MLOps, model deployment, and generative AI solutions
+- **DevOps & GitOps** - Mastering infrastructure automation and modern observability practices
 
-### 💡 Passion & Goals
-Passionate about leveraging cloud technologies to build scalable, secure, and intelligent systems. Committed to continuous learning and staying at the forefront of cloud innovation, data engineering, and AI/ML integration.
+### 🌱 Learning Philosophy
+Committed to continuous learning and staying at the forefront of cloud innovation. Believe in practical, hands-on experience and sharing knowledge with the community.
 
 <br clear="right"/>
 
@@ -72,46 +65,38 @@ Passionate about leveraging cloud technologies to build scalable, secure, and in
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Compute & Containers**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_Lambda_architecture_logo.svg" width="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-ec2.svg" width="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-elastic-beanstalk.svg" width="40"/>
-
-EC2 • Lambda • Elastic Beanstalk • Auto Scaling • ELB
+- ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) Amazon EC2
+- ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white) AWS Lambda
+- ![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white) Elastic Beanstalk, ECS, EKS
 
 **Storage & Database**
-
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-s3.svg" width="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-rds.svg" width="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-dynamodb.svg" width="40"/>
-
-S3 • EBS • EFS • RDS • DynamoDB • Aurora • Redshift
+- ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) Amazon S3, EBS, EFS
+- ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white) Amazon RDS, Aurora
+- ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white) DynamoDB
+- ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white) Amazon Redshift
 
 **Networking**
-
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-cloudfront.svg" width="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-route53.svg" width="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-api-gateway.svg" width="40"/>
-
-VPC • Route 53 • Direct Connect • CloudFront • API Gateway
+- ![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) VPC, Route 53, Direct Connect
+- ![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazon-cloudfront&logoColor=white) CloudFront
+- ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white) API Gateway
 
 **Security & Identity**
-
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-iam.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-waf.svg" width="40"/>
-
-IAM • KMS • WAF • Shield • Secrets Manager • Certificate Manager
+- ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) IAM, KMS, WAF, Shield
+- Secrets Manager, Certificate Manager
 
 **DevOps & Automation**
-
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-cloudformation.svg" width="40"/>
-
-CloudFormation • CodePipeline • CodeBuild • CodeDeploy • Systems Manager
+- ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) CloudFormation
+- CodePipeline, CodeBuild, CodeDeploy
+- Systems Manager
 
 **AI/ML & Analytics**
-
-<img src="https://cdn.worldvectorlogo.com/logos/aws-sagemaker.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/amazon-athena.svg" width="40"/>
-
-SageMaker • Bedrock • RAG • Comprehend • Lex • Polly • Glue • EMR • Athena • QuickSight
+- SageMaker, Bedrock, RAG
+- Comprehend, Lex, Polly
+- ![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Glue, EMR, Athena
+- ![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) QuickSight
 
 **Monitoring**
-
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-cloudwatch.svg" width="40"/>
-
-CloudWatch • Config • CloudTrail
+- ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white) CloudWatch, Config, CloudTrail
 
 </td>
 <td width="50%" valign="top">
@@ -120,46 +105,39 @@ CloudWatch • Config • CloudTrail
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 **Compute & Containers**
-
-<img src="https://cdn.worldvectorlogo.com/logos/azure-functions.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="40"/>
-
-Virtual Machines • Functions • App Service • Container Instances
+- ![Azure VMs](https://img.shields.io/badge/Virtual_Machines-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Virtual Machines
+- ![Azure Functions](https://img.shields.io/badge/Functions-0078D4?style=flat-square&logo=azure-functions&logoColor=white) Azure Functions
+- App Service, Container Instances, AKS
 
 **Storage & Database**
-
-<img src="https://symbols.getvecta.com/stencil_25/2_azure-blob-storage.3cb6a997a0.svg" width="40"/> <img src="https://symbols.getvecta.com/stencil_25/88_sql-database.90517d57b0.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/cosmos-db.svg" width="40"/>
-
-Blob Storage • Data Lake Storage • SQL Database • Cosmos DB • Synapse Analytics
+- ![Blob Storage](https://img.shields.io/badge/Blob_Storage-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Blob Storage, Data Lake Storage
+- ![SQL Database](https://img.shields.io/badge/SQL_Database-0078D4?style=flat-square&logo=microsoft-sql-server&logoColor=white) SQL Database
+- ![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Cosmos DB
+- Synapse Analytics
 
 **Networking**
-
-<img src="https://symbols.getvecta.com/stencil_25/47_load-balancer.e45fbc456c.svg" width="40"/> <img src="https://symbols.getvecta.com/stencil_25/92_virtual-network.c56216c5ca.svg" width="40"/>
-
-Virtual Network (VNet) • ExpressRoute • Load Balancer • DNS • Application Gateway
+- Virtual Network (VNet), ExpressRoute
+- Load Balancer, DNS
+- Application Gateway, Firewall
 
 **Security & Identity**
-
-<img src="https://symbols.getvecta.com/stencil_25/19_azure-active-directory.3e1b9f70af.svg" width="40"/> <img src="https://symbols.getvecta.com/stencil_25/45_key-vault.6b43ee34c0.svg" width="40"/>
-
-Active Directory • Key Vault • Security Center • Firewall
+- ![Azure AD](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Active Directory
+- Key Vault, Security Center
 
 **DevOps & Automation**
-
-<img src="https://cdn.worldvectorlogo.com/logos/azure-devops.svg" width="40"/>
-
-ARM Templates • Azure DevOps • Pipelines • Automation
+- ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white) Azure DevOps
+- ARM Templates, Pipelines
+- Azure Automation
 
 **AI/ML & Analytics**
-
-<img src="https://symbols.getvecta.com/stencil_25/62_azure-machine-learning.b6ad8c6c5c.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/>
-
-Machine Learning • OpenAI Service • Cognitive Services • Data Factory • Databricks • Power BI
+- Azure Machine Learning
+- OpenAI Service, Cognitive Services
+- Data Factory, Databricks
+- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) Power BI
 
 **Monitoring**
-
-<img src="https://symbols.getvecta.com/stencil_25/61_monitor.e52a8e14aa.svg" width="40"/>
-
-Monitor • Advisor • Log Analytics
+- Azure Monitor, Advisor
+- Log Analytics, Application Insights
 
 </td>
 </tr>
@@ -305,7 +283,7 @@ Monitor • Advisor • Log Analytics
 
 <div align="center">
 
-💬 **I'm always interested in collaborating on:**
+💬 **Open to collaborating on:**
 - Cloud infrastructure projects
 - DevOps automation solutions  
 - Multi-cloud architecture discussions
@@ -315,7 +293,6 @@ Monitor • Advisor • Log Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumti_Mehta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumti-mehta)
 [![Email](https://img.shields.io/badge/Email-sumti.mehta.01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumti.mehta.01@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_8219638089-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918219638089)
 [![Location](https://img.shields.io/badge/Location-Himachal_Pradesh,_India-green?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
 </div>
