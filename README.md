@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Sumti Mehta
 
 ### ☁️ Multi-Cloud Engineer | AWS & Azure Specialist | DevOps Enthusiast
@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Multi-Cloud Engineer** specializing in AWS and Azure with 3+ years of experience in designing, implementing, and optimizing cloud infrastructures. Passionate about automation, security, and building scalable solutions.
+**Multi-Cloud Engineer** specializing in AWS and Azure with **4 years** of experience in designing, implementing, and optimizing cloud infrastructures. Passionate about automation, security, and building scalable solutions.
 
 ### 🎯 What I Do
 - ☁️ Architect and deploy multi-cloud infrastructure solutions
@@ -30,7 +30,7 @@
 - **AWS & Azure Advanced Services** - Deep-diving into serverless, containers, and hybrid cloud architectures
 - **Data Engineering** - Building robust ETL/ELT pipelines, data warehousing, and real-time analytics
 - **AI & Machine Learning** - Exploring MLOps, model deployment, and generative AI solutions
-- **DevOps & GitOps** - Mastering infrastructure automation and modern observability practices
+- **DevOps & GitOps** - Mastering infrastructure automation, Prometheus/Grafana observability, and SRE practices
 
 ### 🌱 Learning Philosophy
 Committed to continuous learning and staying at the forefront of cloud innovation. Believe in practical, hands-on experience and sharing knowledge with the community.
@@ -67,12 +67,16 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Compute & Containers**
 
 <p>
-<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="70" title="AWS"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" alt="Lambda" width="70" title="AWS Lambda"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-ec2.svg" alt="EC2" width="50" title="Amazon EC2"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-lambda.svg" alt="Lambda" width="50" title="AWS Lambda"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-elastic-beanstalk.svg" alt="Beanstalk" width="50" title="Elastic Beanstalk"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-ecs.svg" alt="ECS" width="50" title="Amazon ECS"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-eks.svg" alt="EKS" width="50" title="Amazon EKS"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-elb.svg" alt="ELB" width="50" title="Elastic Load Balancing"/>
 </p>
 
 - Amazon EC2
-- AWS Lambda  
+- AWS Lambda
 - Elastic Beanstalk
 - Amazon ECS
 - Amazon EKS
@@ -82,10 +86,11 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Storage & Database**
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" alt="S3" width="70" title="Amazon S3"/>
-<img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="RDS" width="70" title="Amazon RDS"/>
-<img src="https://seeklogo.com/images/A/amazon-dynamodb-logo-CF7BCC577D-seeklogo.com.png" alt="DynamoDB" width="70" title="DynamoDB"/>
-<img src="https://seeklogo.com/images/A/amazon-redshift-logo-3B08CE7E11-seeklogo.com.png" alt="Redshift" width="70" title="Redshift"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-s3.svg" alt="S3" width="50" title="Amazon S3"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-rds.svg" alt="RDS" width="50" title="Amazon RDS"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-dynamodb.svg" alt="DynamoDB" width="50" title="DynamoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-aurora.svg" alt="Aurora" width="50" title="Aurora"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-redshift.svg" alt="Redshift" width="50" title="Redshift"/>
 </p>
 
 - Amazon S3
@@ -99,9 +104,10 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Networking**
 
 <p>
-<img src="https://seeklogo.com/images/A/amazon-cloudfront-logo-0785CB87F4-seeklogo.com.png" alt="CloudFront" width="70" title="CloudFront"/>
-<img src="https://seeklogo.com/images/A/amazon-route-53-logo-9E4D4D6E10-seeklogo.com.png" alt="Route 53" width="70" title="Route 53"/>
-<img src="https://seeklogo.com/images/A/amazon-api-gateway-logo-3C46CDA854-seeklogo.com.png" alt="API Gateway" width="70" title="API Gateway"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-vpc.svg" alt="VPC" width="50" title="Amazon VPC"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-route53.svg" alt="Route 53" width="50" title="Route 53"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-cloudfront.svg" alt="CloudFront" width="50" title="CloudFront"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-api-gateway.svg" alt="API Gateway" width="50" title="API Gateway"/>
 </p>
 
 - Amazon VPC
@@ -113,9 +119,12 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Security & Identity**
 
 <p>
-<img src="https://seeklogo.com/images/A/aws-identity-and-access-management-iam-logo-504424A24E-seeklogo.com.png" alt="IAM" width="70" title="AWS IAM"/>
-<img src="https://seeklogo.com/images/A/aws-waf-logo-7CF97C0396-seeklogo.com.png" alt="WAF" width="70" title="AWS WAF"/>
-<img src="https://seeklogo.com/images/A/aws-kms-logo-1C946DEE95-seeklogo.com.png" alt="KMS" width="70" title="AWS KMS"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-iam.svg" alt="IAM" width="50" title="AWS IAM"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-kms.svg" alt="KMS" width="50" title="AWS KMS"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-waf.svg" alt="WAF" width="50" title="AWS WAF"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-shield.svg" alt="Shield" width="50" title="AWS Shield"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-secrets-manager.svg" alt="Secrets Manager" width="50" title="Secrets Manager"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-certificate-manager.svg" alt="ACM" width="50" title="Certificate Manager"/>
 </p>
 
 - AWS IAM
@@ -128,9 +137,11 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **DevOps & Automation**
 
 <p>
-<img src="https://seeklogo.com/images/A/aws-cloudformation-logo-E361B2C0EB-seeklogo.com.png" alt="CloudFormation" width="70" title="CloudFormation"/>
-<img src="https://seeklogo.com/images/A/aws-codepipeline-logo-E601ABC1CC-seeklogo.com.png" alt="CodePipeline" width="70" title="CodePipeline"/>
-<img src="https://seeklogo.com/images/A/aws-codebuild-logo-C87D7D8C9F-seeklogo.com.png" alt="CodeBuild" width="70" title="CodeBuild"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-cloudformation.svg" alt="CloudFormation" width="50" title="CloudFormation"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-codepipeline.svg" alt="CodePipeline" width="50" title="CodePipeline"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-codebuild.svg" alt="CodeBuild" width="50" title="CodeBuild"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-codedeploy.svg" alt="CodeDeploy" width="50" title="CodeDeploy"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-systems-manager.svg" alt="SSM" width="50" title="Systems Manager"/>
 </p>
 
 - AWS CloudFormation
@@ -142,9 +153,9 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **AI/ML & Analytics**
 
 <p>
-<img src="https://seeklogo.com/images/A/amazon-sagemaker-logo-8F407E503C-seeklogo.com.png" alt="SageMaker" width="70" title="SageMaker"/>
-<img src="https://seeklogo.com/images/A/aws-glue-logo-E1A2B84BBF-seeklogo.com.png" alt="Glue" width="70" title="Glue"/>
-<img src="https://seeklogo.com/images/A/amazon-athena-logo-23C9D5B697-seeklogo.com.png" alt="Athena" width="70" title="Athena"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-glue.svg" alt="Glue" width="50" title="AWS Glue"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-athena.svg" alt="Athena" width="50" title="Athena"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-quicksight.svg" alt="QuickSight" width="50" title="QuickSight"/>
 </p>
 
 - Amazon SageMaker
@@ -161,8 +172,9 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Monitoring**
 
 <p>
-<img src="https://seeklogo.com/images/A/amazon-cloudwatch-logo-7B180A53AF-seeklogo.com.png" alt="CloudWatch" width="70" title="CloudWatch"/>
-<img src="https://seeklogo.com/images/A/aws-cloudtrail-logo-91FAE498D1-seeklogo.com.png" alt="CloudTrail" width="70" title="CloudTrail"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-cloudwatch.svg" alt="CloudWatch" width="50" title="CloudWatch"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-cloudtrail.svg" alt="CloudTrail" width="50" title="CloudTrail"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-config.svg" alt="Config" width="50" title="AWS Config"/>
 </p>
 
 - Amazon CloudWatch
@@ -178,10 +190,8 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Compute & Containers**
 
 <p>
-<img src="https://www.svgrepo.com/show/353464/azure.svg" alt="Azure" width="70" title="Azure"/>
-<img src="https://www.svgrepo.com/show/353463/azure-icon.svg" alt="Functions" width="70" title="Azure Functions"/>
-<img src="https://seeklogo.com/images/A/azure-container-instances-logo-10FE98F952-seeklogo.com.png" alt="Container" width="70" title="Container Instances"/>
-<img src="https://seeklogo.com/images/A/azure-kubernetes-service-logo-6580FDA0EB-seeklogo.com.png" alt="AKS" width="70" title="Azure AKS"/>
+<img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="48" title="Azure"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="AKS" width="48" title="Azure Kubernetes Service"/>
 </p>
 
 - Azure Virtual Machines
@@ -193,9 +203,7 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Storage & Database**
 
 <p>
-<img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="SQL" width="70" title="Azure SQL"/>
-<img src="https://seeklogo.com/images/A/azure-cosmos-db-logo-70CAEE0346-seeklogo.com.png" alt="Cosmos" width="70" title="Cosmos DB"/>
-<img src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-7F3EE52413-seeklogo.com.png" alt="Synapse" width="70" title="Synapse"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" width="150" title="Azure databases"/>
 </p>
 
 - Azure Blob Storage
@@ -206,11 +214,6 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 
 **Networking**
 
-<p>
-<img src="https://seeklogo.com/images/A/azure-firewall-logo-6C1BED1297-seeklogo.com.png" alt="Firewall" width="70" title="Azure Firewall"/>
-<img src="https://www.svgrepo.com/show/353464/azure.svg" alt="Network" width="70" title="Azure Network"/>
-</p>
-
 - Azure Virtual Network (VNet)
 - Azure ExpressRoute
 - Azure Load Balancer
@@ -220,21 +223,14 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 
 **Security & Identity**
 
-<p>
-<img src="https://seeklogo.com/images/A/azure-active-directory-logo-0FCCE0399A-seeklogo.com.png" alt="AD" width="70" title="Azure AD"/>
-<img src="https://seeklogo.com/images/A/azure-key-vault-logo-0B73ADEE7C-seeklogo.com.png" alt="Key Vault" width="70" title="Key Vault"/>
-<img src="https://seeklogo.com/images/A/azure-security-center-logo-50B7413AE1-seeklogo.com.png" alt="Security" width="70" title="Security Center"/>
-</p>
-
-- Azure Active Directory
+- Azure Active Directory (Entra ID)
 - Azure Key Vault
 - Azure Security Center
 
 **DevOps & Automation**
 
 <p>
-<img src="https://seeklogo.com/images/A/azure-devops-logo-E7364216EE-seeklogo.com.png" alt="DevOps" width="70" title="Azure DevOps"/>
-<img src="https://www.svgrepo.com/show/448274/azure-pipelines.svg" alt="Pipelines" width="70" title="Pipelines"/>
+<img src="https://skillicons.dev/icons?i=azure" alt="Azure DevOps" width="48" title="Azure DevOps"/>
 </p>
 
 - Azure DevOps
@@ -245,11 +241,8 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **AI/ML & Analytics**
 
 <p>
-<img src="https://seeklogo.com/images/A/azure-machine-learning-logo-0F8772A2ED-seeklogo.com.png" alt="ML" width="70" title="Machine Learning"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" alt="OpenAI" width="70" title="OpenAI"/>
-<img src="https://seeklogo.com/images/A/azure-data-factory-logo-6FB00476E1-seeklogo.com.png" alt="Data Factory" width="70" title="Data Factory"/>
-<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="70" title="Databricks"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="Power BI" width="70" title="Power BI"/>
+<img src="https://skillicons.dev/icons?i=azure" alt="Azure ML" width="48" title="Azure Machine Learning"/>
+<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="44" title="Databricks"/>
 </p>
 
 - Azure Machine Learning
@@ -260,10 +253,6 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 - Microsoft Power BI
 
 **Monitoring**
-
-<p>
-<img src="https://seeklogo.com/images/A/azure-monitor-logo-98D4E503C8-seeklogo.com.png" alt="Monitor" width="70" title="Azure Monitor"/>
-</p>
 
 - Azure Monitor
 - Azure Advisor
@@ -288,15 +277,16 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="80" title="GitHub"/>
 <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="80" title="GitLab"/>
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="80" title="Ansible"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="80" title="Grafana"/>
+<img src="https://www.vectorlogo.zone/logos/prometheus/prometheus-icon.svg" alt="Prometheus" width="80" title="Prometheus"/>
 </p>
 
 **Infrastructure as Code (IaC)**
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="60" title="Terraform"/>
-<img src="https://seeklogo.com/images/A/aws-cloudformation-logo-E361B2C0EB-seeklogo.com.png" alt="CloudFormation" width="60" title="CloudFormation"/>
-<img src="https://www.svgrepo.com/show/353464/azure.svg" alt="ARM" width="60" title="ARM Templates"/>
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="60" title="Ansible"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="55" title="Terraform"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-cloudformation.svg" alt="CloudFormation" width="50" title="CloudFormation"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="55" title="Ansible"/>
 </p>
 
 - Terraform (Multi-cloud deployment)
@@ -307,11 +297,10 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **CI/CD Pipelines**
 
 <p>
-<img src="https://seeklogo.com/images/A/aws-codepipeline-logo-E601ABC1CC-seeklogo.com.png" alt="CodePipeline" width="60" title="CodePipeline"/>
-<img src="https://seeklogo.com/images/A/aws-codebuild-logo-C87D7D8C9F-seeklogo.com.png" alt="CodeBuild" width="60" title="CodeBuild"/>
-<img src="https://www.svgrepo.com/show/448274/azure-pipelines.svg" alt="Azure Pipelines" width="60" title="Azure Pipelines"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="60" title="Jenkins"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub Actions" width="60" title="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-codepipeline.svg" alt="CodePipeline" width="50" title="CodePipeline"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-codebuild.svg" alt="CodeBuild" width="50" title="CodeBuild"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" title="Jenkins"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="50" title="GitHub Actions"/>
 </p>
 
 - AWS CodePipeline
@@ -324,11 +313,10 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Containerization & Orchestration**
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="60" title="Docker"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="60" title="Kubernetes"/>
-<img src="https://seeklogo.com/images/A/amazon-ecs-logo-6F843C31C8-seeklogo.com.png" alt="ECS" width="60" title="Amazon ECS"/>
-<img src="https://seeklogo.com/images/A/amazon-eks-logo-AF8C1C6E96-seeklogo.com.png" alt="EKS" width="60" title="Amazon EKS"/>
-<img src="https://seeklogo.com/images/A/azure-kubernetes-service-logo-6580FDA0EB-seeklogo.com.png" alt="AKS" width="60" title="Azure AKS"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="55" title="Docker"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="55" title="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-ecs.svg" alt="ECS" width="50" title="Amazon ECS"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-eks.svg" alt="EKS" width="50" title="Amazon EKS"/>
 </p>
 
 - Docker (Container creation & management)
@@ -341,10 +329,10 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Version Control**
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" title="Git"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="60" title="GitHub"/>
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="60" title="GitLab"/>
-<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="60" title="Bitbucket"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" title="Git"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="55" title="GitHub"/>
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="55" title="GitLab"/>
+<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="55" title="Bitbucket"/>
 </p>
 
 - Git
@@ -360,9 +348,10 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="70" title="Python"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="70" title="Bash"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="70" title="PowerShell"/>
+<img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="58" title="PowerShell"/>
 <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="YAML" width="70" title="YAML"/>
 <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="70" title="JSON"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="70" title="Linux"/>
 </p>
 
 - **Python:** Automation scripts, AWS Boto3, Azure SDK, data processing
@@ -370,6 +359,7 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 - **PowerShell:** Windows automation, Azure management
 - **YAML:** Configuration files, CI/CD pipelines
 - **JSON:** API responses, IaC templates
+- **Linux:** Ubuntu, Amazon Linux (system administration)
 
 </details>
 
@@ -382,7 +372,7 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="70" title="MySQL"/>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="70" title="PostgreSQL"/>
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="70" title="MariaDB"/>
-<img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="RDS" width="70" title="RDS"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-rds.svg" alt="RDS" width="60" title="Amazon RDS"/>
 </p>
 
 - MySQL
@@ -395,8 +385,7 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **NoSQL Databases**
 
 <p>
-<img src="https://seeklogo.com/images/A/amazon-dynamodb-logo-CF7BCC577D-seeklogo.com.png" alt="DynamoDB" width="70" title="DynamoDB"/>
-<img src="https://seeklogo.com/images/A/azure-cosmos-db-logo-70CAEE0346-seeklogo.com.png" alt="Cosmos" width="70" title="Cosmos DB"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-dynamodb.svg" alt="DynamoDB" width="60" title="DynamoDB"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="70" title="MongoDB"/>
 </p>
 
@@ -407,8 +396,7 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Data Warehousing & Analytics**
 
 <p>
-<img src="https://seeklogo.com/images/A/amazon-redshift-logo-3B08CE7E11-seeklogo.com.png" alt="Redshift" width="70" title="Redshift"/>
-<img src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-7F3EE52413-seeklogo.com.png" alt="Synapse" width="70" title="Synapse"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-redshift.svg" alt="Redshift" width="60" title="Redshift"/>
 <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="70" title="Snowflake"/>
 </p>
 
@@ -420,10 +408,9 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Data Processing & Integration**
 
 <p>
-<img src="https://seeklogo.com/images/A/aws-glue-logo-E1A2B84BBF-seeklogo.com.png" alt="Glue" width="70" title="Glue"/>
-<img src="https://seeklogo.com/images/A/amazon-athena-logo-23C9D5B697-seeklogo.com.png" alt="Athena" width="70" title="Athena"/>
-<img src="https://seeklogo.com/images/A/azure-data-factory-logo-6FB00476E1-seeklogo.com.png" alt="Data Factory" width="70" title="Data Factory"/>
-<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="70" title="Databricks"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-glue.svg" alt="Glue" width="60" title="Glue"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-athena.svg" alt="Athena" width="60" title="Athena"/>
+<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="52" title="Databricks"/>
 <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="70" title="Spark"/>
 </p>
 
@@ -437,8 +424,8 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Business Intelligence**
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="Power BI" width="70" title="Power BI"/>
 <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="70" title="Tableau"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-quicksight.svg" alt="QuickSight" width="60" title="QuickSight"/>
 </p>
 
 - Amazon QuickSight
@@ -453,23 +440,21 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Identity & Access Management**
 
 <p>
-<img src="https://seeklogo.com/images/A/aws-identity-and-access-management-iam-logo-504424A24E-seeklogo.com.png" alt="IAM" width="70" title="IAM"/>
-<img src="https://seeklogo.com/images/A/azure-active-directory-logo-0FCCE0399A-seeklogo.com.png" alt="Azure AD" width="70" title="Azure AD"/>
-<img src="https://www.vectorlogo.zone/logos/okta/okta-icon.svg" alt="Okta" width="70" title="Okta"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-iam.svg" alt="IAM" width="50" title="IAM"/>
+<img src="https://www.vectorlogo.zone/logos/okta/okta-icon.svg" alt="Okta" width="55" title="Okta"/>
 </p>
 
 - AWS IAM (Roles, Policies, MFA)
-- Azure Active Directory
+- Azure Active Directory (Entra ID)
 - Identity Management
 - Least privilege principle implementation
 
 **Data Protection & Encryption**
 
 <p>
-<img src="https://seeklogo.com/images/A/aws-kms-logo-1C946DEE95-seeklogo.com.png" alt="KMS" width="70" title="KMS"/>
-<img src="https://seeklogo.com/images/A/aws-secrets-manager-logo-A93C9DCE11-seeklogo.com.png" alt="Secrets" width="70" title="Secrets Manager"/>
-<img src="https://seeklogo.com/images/A/azure-key-vault-logo-0B73ADEE7C-seeklogo.com.png" alt="Key Vault" width="70" title="Key Vault"/>
-<img src="https://seeklogo.com/images/A/aws-certificate-manager-logo-C5DB82E9D2-seeklogo.com.png" alt="Certificate" width="70" title="Certificate Manager"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-kms.svg" alt="KMS" width="50" title="KMS"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-secrets-manager.svg" alt="Secrets" width="50" title="Secrets Manager"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-certificate-manager.svg" alt="ACM" width="50" title="Certificate Manager"/>
 </p>
 
 - AWS KMS
@@ -481,9 +466,8 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Network Security**
 
 <p>
-<img src="https://seeklogo.com/images/A/aws-waf-logo-7CF97C0396-seeklogo.com.png" alt="WAF" width="70" title="WAF"/>
-<img src="https://seeklogo.com/images/A/aws-shield-logo-CD68A33AB7-seeklogo.com.png" alt="Shield" width="70" title="Shield"/>
-<img src="https://seeklogo.com/images/A/azure-firewall-logo-6C1BED1297-seeklogo.com.png" alt="Firewall" width="70" title="Firewall"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-waf.svg" alt="WAF" width="50" title="WAF"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-shield.svg" alt="Shield" width="50" title="Shield"/>
 </p>
 
 - AWS Security Groups & NACLs
@@ -495,10 +479,8 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 **Monitoring & Compliance**
 
 <p>
-<img src="https://seeklogo.com/images/A/aws-config-logo-66F50859CB-seeklogo.com.png" alt="Config" width="70" title="Config"/>
-<img src="https://seeklogo.com/images/A/aws-cloudtrail-logo-91FAE498D1-seeklogo.com.png" alt="CloudTrail" width="70" title="CloudTrail"/>
-<img src="https://seeklogo.com/images/A/azure-security-center-logo-50B7413AE1-seeklogo.com.png" alt="Security Center" width="70" title="Security Center"/>
-<img src="https://seeklogo.com/images/A/aws-guardduty-logo-A1EC3FF68D-seeklogo.com.png" alt="GuardDuty" width="70" title="GuardDuty"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-config.svg" alt="Config" width="50" title="Config"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/aws-cloudtrail.svg" alt="CloudTrail" width="50" title="CloudTrail"/>
 </p>
 
 - AWS Config
@@ -514,7 +496,7 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehtasumti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtasumti&layout=compact&langs_count=8&theme=tokyonight"/>
 
@@ -543,7 +525,7 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 
 💬 **Open to collaborating on:**
 - Cloud infrastructure projects
-- DevOps automation solutions  
+- DevOps automation solutions
 - Multi-cloud architecture discussions
 - Open-source contributions
 
@@ -558,11 +540,9 @@ Committed to continuous learning and staying at the forefront of cloud innovatio
 ---
 
 <div align="center">
-  
+
 ### 💭 *"Building the future, one cloud resource at a time"*
 
-![](https://komarev.com/ghpvc/?username=mehtasumti&color=blueviolet&style=flat-square&label=Profile+Views)
-
-⭐️ From [mehtasumti](https://github.com/mehtasumti) | 📅 Last Updated: January 2026
+⭐️ From [mehtasumti](https://github.com/mehtasumti) | 📅 Last Updated: August 2026
 
 </div>
